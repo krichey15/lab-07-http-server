@@ -2,7 +2,7 @@
   "name": "lab-07-http-server",
   "version": "0.0.1",
   "description": "Lab-07",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "mocha"
   },
